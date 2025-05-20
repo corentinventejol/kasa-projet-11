@@ -1,6 +1,6 @@
 # Formation développeur web
 
-## 📎 Projet 7 : Kasa - Agence de location immobilière
+## 📎 Projet 11 : Kasa - Agence de location immobilière
 
 ![cover](./images/screenshot.jpg)
 
